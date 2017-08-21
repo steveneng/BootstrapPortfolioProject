@@ -17,3 +17,16 @@ body {
   color: 	white;
   background-color:#3aeb00;
 }
+
+.navbar {
+  background-color: #00b0eb;
+}
+
+a.nav-link:hover{
+  border-bottom: solid #b0eb00 1px;
+}
+
+.title{
+  font-weight: lighter;
+}
+
